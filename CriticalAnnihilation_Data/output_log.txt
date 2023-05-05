@@ -1,0 +1,58 @@
+Initialize engine version: 4.5.5p1 (7c778773db1c)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x80004005)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumd32.dll 8.14.10.1666]
+    Renderer: Mobile Intel(R) GM45 Express Chipset Family
+    Vendor:   Intel
+    VRAM:     1536 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 RAWZ=0 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\home\marisag\Downloads\CriticalAnnihilationWindows20141104\CriticalAnnihilation_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\CriticalAnnihilationWindows20141104\CriticalAnnihilation_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\CriticalAnnihilationWindows20141104\CriticalAnnihilation_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\CriticalAnnihilationWindows20141104\CriticalAnnihilation_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\CriticalAnnihilationWindows20141104\CriticalAnnihilation_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\CriticalAnnihilationWindows20141104\CriticalAnnihilation_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\CriticalAnnihilationWindows20141104\CriticalAnnihilation_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\CriticalAnnihilationWindows20141104\CriticalAnnihilation_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\CriticalAnnihilationWindows20141104\CriticalAnnihilation_Data\Managed\VoxelEngine.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\CriticalAnnihilationWindows20141104\CriticalAnnihilation_Data\Managed\VoxelEngine.dll into Unity Child Domain
+Platform assembly: Z:\home\marisag\Downloads\CriticalAnnihilationWindows20141104\CriticalAnnihilation_Data\Managed\BehaviorDesignerRuntime.dll (this message is harmless)
+Loading Z:\home\marisag\Downloads\CriticalAnnihilationWindows20141104\CriticalAnnihilation_Data\Managed\BehaviorDesignerRuntime.dll into Unity Child Domain
+- Completed reload, in  0.139 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1280x800 60Hz; virtual: 1280x800 at 0,0
+Platform assembly: Z:\home\marisag\Downloads\CriticalAnnihilationWindows20141104\CriticalAnnihilation_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: Z:\home\marisag\Downloads\CriticalAnnihilationWindows20141104\CriticalAnnihilation_Data\Managed\System.dll (this message is harmless)
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+WARNING: Shader Unsupported: 'Hidden/NoiseAndGrainDX11' - Pass '' shader state not supported
+WARNING: Shader Unsupported: 'Hidden/NoiseAndGrainDX11' - Setting to default shader.
+WARNING: Shader Unsupported: 'Hidden/Dof/DX11Dof' - Pass '' shader state not supported
+WARNING: Shader Unsupported: 'Hidden/Dof/DX11Dof' - Setting to default shader.
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1783)
+
+Time to build map: 1683
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Platform assembly: Z:\home\marisag\Downloads\CriticalAnnihilationWindows20141104\CriticalAnnihilation_Data\Managed\Boo.Lang.dll (this message is harmless)
